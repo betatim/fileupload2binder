@@ -1,6 +1,6 @@
 # Setting up a using the `fileupload` widget Jupyter Notebook environment via binder
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/draperjames/fileupload2path/master?filepath=index.ipynb)
+[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/draperjames/fileupload2binder/master?filepath=index.ipynb)
 
 Click the binder badge above to start a new binder virtual machine.
 
